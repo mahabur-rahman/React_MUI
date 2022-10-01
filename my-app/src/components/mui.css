@@ -5,3 +5,8 @@
 .text {
     color: red !important;
 }
+
+.box {
+    padding: 10px;
+    background-color: red;
+}
