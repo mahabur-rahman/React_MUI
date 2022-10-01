@@ -1,7 +1,9 @@
-import "./App.css";
+import "./components/mui.css";
+
+import MuiTypography from "./components/MuiTypography";
 
 const App = () => {
-  return <h1>this is app</h1>;
+  return <MuiTypography />;
 };
 
 export default App;
