@@ -13,8 +13,6 @@ import {
 const MuiRadioButton = () => {
   const [value, setValue] = useState("");
 
-  console.log(value);
-
   const handleChange = (e) => {
     setValue(e.target.value);
   };
