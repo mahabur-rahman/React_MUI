@@ -7,9 +7,11 @@ import MuiRadioButton from "./components/MuiRadioButton";
 import MuiCheckbox from "./components/MuiCheckbox";
 import MuiSwitch from "./components/MuiSwitch";
 import MuiRating from "./components/MuiRating";
+import MuiAutoComplete from "./components/MuiAutoComplete";
+import MuiBox from "./components/MuiBox";
 
 const App = () => {
-  return <MuiRating />;
+  return <MuiBox />;
 };
 
 export default App;
